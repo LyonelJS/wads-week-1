@@ -18,4 +18,5 @@ Create Branch:
 - git checkout -b branch1 929e060
 
 Compare and Pull: 
-- 
+- git merge origin master
+- git add .
