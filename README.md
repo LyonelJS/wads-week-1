@@ -15,3 +15,6 @@ Initialize github repository
 Create Branch: 
 - git log --oneline     
 - git checkout -b branch1 929e060
+
+Compare and Pull: 
+- 
