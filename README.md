@@ -14,3 +14,4 @@ Initialize github repository
 - git push -u origin main
 
 Pull: 
+- git
