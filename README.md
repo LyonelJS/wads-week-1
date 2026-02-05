@@ -21,3 +21,5 @@ Compare and Pull:
 - git merge origin master
 - git add .
 Pull: 
+Pull: 
+- git
