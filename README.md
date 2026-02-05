@@ -12,3 +12,6 @@ Initialize github repository
 - git remote add origin http://
 - git push -u origin main
 
+Create Branch: 
+- git log --oneline     
+- git checkout -b branch1 929e060
