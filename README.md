@@ -3,6 +3,7 @@
 name: lyonel
 topic: git and github intro
 
+WADS Course session 1: 
 
 Initialize github repository
 - git init
