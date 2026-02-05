@@ -13,3 +13,4 @@ Initialize github repository
 - git remote add origin http://
 - git push -u origin main
 
+Pull: 
