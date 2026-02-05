@@ -20,3 +20,4 @@ Create Branch:
 Compare and Pull: 
 - git merge origin master
 - git add .
+Pull: 
